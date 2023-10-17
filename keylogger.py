@@ -70,8 +70,8 @@ def envio():
 
     host = 'smtp.gmail.com'
     port = '587'
-    login = 'alexandreaeronetcursos@gmail.com'
-    senha = 'jdmzzpasavobntom'
+    login = 'seuemail@gmail.com'
+    senha = 'suasenha'
 
     server = smtplib.SMTP(host, port)
 
