@@ -1,4 +1,4 @@
-# Python--Keylogger
+# Keylogger
   Um script poderoso e capaz de registrar tudo que é digitado no teclado. Conteúdo para fins educacionais.
 
   Abaixo, você confere na imagem, um arquivo de log gerado pelo keylogger exibindo algumas informações capturadas.
