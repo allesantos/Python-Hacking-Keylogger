@@ -6,6 +6,17 @@ Este projeto contém um **script poderoso** em Python, capaz de registrar todas 
 
 ---
 
+## 📌 Índice
+- [🚀 Recursos](#-recursos)
+- [🛠 Tecnologias](#-tecnologias)
+- [✅ Pré-requisitos](#-pré-requisitos)
+- [💾 Instalação](#-instalação)
+- [▶️ Uso](#-uso)
+- [🤝 Contribuição](#-contribuição)
+- [📄 Licença](#-licença)
+
+---
+
 ## ⚡ Recursos
 - **Captura de teclas:** Registra em tempo real todas as teclas digitadas.
 - **Envio automático:** Transmite os dados capturados para um e-mail pré-configurado.
