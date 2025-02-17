@@ -75,6 +75,8 @@ Este projeto contém um **script poderoso** em Python, capaz de registrar todas 
 
        - Abaixo, você confere na imagem, um arquivo de log gerado pelo keylogger exibindo algumas informações capturadas.
 
+         <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/arquivo-de-log.png">
+
 Aviso: Utilize este script somente em ambientes de teste e com autorização explícita. O uso não autorizado pode acarretar sérias consequências legais.
 
 ---
