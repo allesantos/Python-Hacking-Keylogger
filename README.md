@@ -100,6 +100,6 @@ Contribuições são bem-vindas! Para contribuir:
 ## 📜 Licença
 Este projeto está licenciado sob a **MIT License** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-📌 Desenvolvido com ❤️ por Alexandre Santos
-
 Nota: Este script foi desenvolvido exclusivamente para fins educacionais e de teste na área de Segurança da Informação. Qualquer uso indevido é de inteira responsabilidade do usuário.
+
+📌 Desenvolvido com ❤️ por Alexandre Santos
