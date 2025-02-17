@@ -73,13 +73,13 @@ Este projeto contém um **script poderoso** em Python, capaz de registrar todas 
 
    - O script iniciará a captura de todas as teclas digitadas e enviará periodicamente os dados para o e-mail configurado.
 
-     - Abaixo, você confere na imagem, um arquivo de log gerado pelo keylogger exibindo algumas informações capturadas.
+       - Abaixo, você confere na imagem, um arquivo de log gerado pelo keylogger exibindo algumas informações capturadas.
 
-      <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/arquivo-de-log.png">
+        <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/arquivo-de-log.png">
 
-    - Nesta outra imagem, você confere o arquivo de log gerado pelo keylogger sendo recebido via e-mail.
+       - Nesta outra imagem, você confere o arquivo de log gerado pelo keylogger sendo recebido via e-mail.
 
-      <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/email.png">
+        <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/email.png">
 
 Aviso: Utilize este script somente em ambientes de teste e com autorização explícita. O uso não autorizado pode acarretar sérias consequências legais.
 
